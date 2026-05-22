@@ -1,5 +1,5 @@
 from enum import Enum
-from engine import Engine
+from ENGINE import ENGINE
 
 
 # State chatbot
