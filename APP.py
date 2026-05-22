@@ -1,5 +1,5 @@
 import streamlit as st
-from FSM import FSM
+from Fsm import Fsm
 
 # Config halaman
 st.set_page_config(
